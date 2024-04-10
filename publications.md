@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /publications/index.html
+permalink: /publications/index.html[_config.yml](_config.yml)
 title: Publications
 ---
 
