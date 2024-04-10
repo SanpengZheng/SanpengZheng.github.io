@@ -1,10 +1,9 @@
 ---
 layout: page
-permalink: /publications/index.html[_config.yml](_config.yml)
+permalink: /publications/index.html
 title: Publications
 ---
 
-> Lastest Update: 12th Feb 2024&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
 
 ## Journal Paper
 
