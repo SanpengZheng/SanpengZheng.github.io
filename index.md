@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://github.com/SanpengZheng/SanpengZheng.github.io/SanpengZheng.jpg" class="floatpic" width="360" height="480">
+<img src="https://sanpengzheng.github.io/SanpengZheng.jpg" class="floatpic" width="360" height="480">
 
 Here is **Sanpeng Zheng (郑三棚)**. I am currently a lecturer at the School of Mathematical Sciences of Guizhou Normal University (**GZNU**).
 
