@@ -12,13 +12,13 @@ Scientific research is highly dependent on high-quality, high-level teams. In or
 
 ## Team News
 
-- None.
+- Coming soon!
 
 ---
 
 ## Our Fundings
 
-- None.
+- Coming soon!
 
 ---
 
