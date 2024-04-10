@@ -15,11 +15,11 @@ title: Publications
 - **Sanpeng Zheng**; Renzhong Feng*; Aitong Huang ; [A modified moving least-squares suitable for
   scattered data fitting with outliers](https://doi.org/10.1016/j.cam.2019.112655), **Journal of Computational and Applied Mathematics**, **2020**,
   370: 112655.
-- **Sanpeng Zheng**; Renzhong Feng*; Aitong Huang ; [The Optimal Shape Parameter for the Least
-  Squares Approximation Based on the Radial Basis Function](https://doi.org/10.3390/math8111923), Mathematics, 2020, 8(11): 1923.
 - Aitong Huang; Renzhong Feng*; **Sanpeng Zheng** ; [The Recovery Guarantee for Orthogonal
-  Matching Pursuit Method to Reconstruct Sparse Polynomials](https://doi.org/10.4208/nmtma.OA-2022-0015), Numerical Mathematics-theory Methods
-  and Applications, 2022, 15(3): 793-818
+  Matching Pursuit Method to Reconstruct Sparse Polynomials](https://doi.org/10.4208/nmtma.OA-2022-0015), **Numerical Mathematics-theory Methods
+  and Applications**, **2022**, 15(3): 793-818.
+- **Sanpeng Zheng**; Renzhong Feng*; Aitong Huang ; [The Optimal Shape Parameter for the Least
+    Squares Approximation Based on the Radial Basis Function](https://doi.org/10.3390/math8111923), **Mathematics**, **2020**, 8(11): 1923.
 
 <br>
 
@@ -35,6 +35,6 @@ title: Publications
 ## Book
 
 - Coming soon!
-
----
   <br>
+---
+
