@@ -6,38 +6,36 @@ title: Publications
 
 > Lastest Update: 12th Feb 2024&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
 
-## Conference Paper
+## Journal Paper
 
-- [Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://www.researchgate.net/publication/378144932)<br>*Final year project (FYP).*<br>**Hanlin Cai**, Yuchen Fang, Meng Yuan, Tozammel Hossain, Zhezhuang Xu<br>AAAI Conference on Artificial Intelligence, Undergraduate Consortium ([AAAI 2024 UC](https://aaai.org/aaai-conference/undergraduate-consortium-program/))<br>Vancouver, Canada. February, 2024. Full paper will be submitted to KDD 2024.
-
-- [Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model](https://www.researchgate.net/publication/374730865)<br>*Junior year course design, early project.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics (ICAROB 2023)<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
-
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://www.researchgate.net/publication/368410220_An_IoT_Garbage_Monitoring_System_for_Effective_Garbage_Management)<br>*Freshman course design, early project.*<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
+- **Sanpeng Zheng**; Renzhong Feng*; Aitong Huang ; [An outlier detection and recovery method
+  based on moving least squares quasi-interpolation scheme and $l_0$-minimization problem](https://doi.org/10.1016/j.apm.2023.05.032), Applied
+  **Mathematical Modelling**, **2023**, 122: 127-150. 
+- **Sanpeng Zheng**; Renzhong Feng* ; [A variable projection method for the general radial basis
+  function neural network](https://doi.org/10.1016/j.amc.2023.128009), **Applied Mathematics and Computation**, **2023**, 451: 128009.
+- **Sanpeng Zheng**; Renzhong Feng*; Aitong Huang ; [A modified moving least-squares suitable for
+  scattered data fitting with outliers](https://doi.org/10.1016/j.cam.2019.112655), **Journal of Computational and Applied Mathematics**, **2020**,
+  370: 112655.
+- **Sanpeng Zheng**; Renzhong Feng*; Aitong Huang ; [The Optimal Shape Parameter for the Least
+  Squares Approximation Based on the Radial Basis Function](https://doi.org/10.3390/math8111923), Mathematics, 2020, 8(11): 1923.
+- Aitong Huang; Renzhong Feng*; **Sanpeng Zheng** ; [The Recovery Guarantee for Orthogonal
+  Matching Pursuit Method to Reconstruct Sparse Polynomials](https://doi.org/10.4208/nmtma.OA-2022-0015), Numerical Mathematics-theory Methods
+  and Applications, 2022, 15(3): 793-818
 
 <br>
 
-## Journal Paper
+---
+## Conference Paper
 
 - Coming soon!
 
-  <br>
+<br>
 
 ---
 
-## Working Manuscript
+## Book
 
-- Detecting Multiple-mix-attack in IoT Networks through Reconstruction and Classification Machine Learning Techniques<br>
-
-- Multi-objective Optimization Model Based on Analysis of Human-Land Relationship Coupling: A Case Study of the Masai Mara National Reserve<br>
-
-  <br>
+- Coming soon!
 
 ---
-
-## Undergrad Thesis
-
-- Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Final Year Project (FYP). Under working<br>Proposal paper has been accepted by AAAI 2024<br>Expect to submit a long paper to KDD 2024.
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement Report in [Huading Tech](http://www.hdim.com.cn/) and [IACTIP Lab](https://dqxy.fzu.edu.cn/en/)<br>
-
   <br>
