@@ -7,8 +7,8 @@ title: Publications
 
 ## Journal Paper
 
-- **Sanpeng Zheng**; Renzhong Feng*; Aitong Huang ; [An outlier detection and recovery method
-  based on moving least squares quasi-interpolation scheme and $l_0$-minimization problem](https://doi.org/10.1016/j.apm.2023.05.032), Applied
+- **Sanpeng Zheng**; Renzhong Feng*; Aitong Huang ; **[An outlier detection and recovery method
+  based on moving least squares quasi-interpolation scheme and $l_0$-minimization problem](https://doi.org/10.1016/j.apm.2023.05.032)**, Applied
   **Mathematical Modelling**, **2023**, 122: 127-150. 
 - **Sanpeng Zheng**; Renzhong Feng* ; [A variable projection method for the general radial basis
   function neural network](https://doi.org/10.1016/j.amc.2023.128009), **Applied Mathematics and Computation**, **2023**, 451: 128009.
