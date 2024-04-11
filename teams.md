@@ -18,7 +18,7 @@ Scientific research is highly dependent on high-quality, high-level teams. In or
 
 ## Our Fundings
 
-- Coming soon!
+- Study on the least square methods for fitting high dimensional scattered data, the Academic Excellence Foundation of BUAA for PhD Students, 2022-2023, 40,000 ¥, Completed.
 
 ---
 

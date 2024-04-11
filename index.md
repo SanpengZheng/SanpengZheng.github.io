@@ -9,7 +9,7 @@ layout: page
 Here is **Sanpeng Zheng (郑三棚)**. I am currently a lecturer at the School of Mathematical Sciences of Guizhou Normal University (**GZNU**).
 
 I went to the School of Mathematical Sciences at Beihang University (**BUAA**) in 2013 to pursue a **Bachelor of Science** degree and finally left as a **Doctor of Science** in June 2023.
-I am very grateful for my supervisor [<font color='blue'>Prof. Renzhong Feng</font>](https://math.buaa.edu.cn/szdw1/azcck/js/frz.htm "个人主页") and the school.
+I am very grateful for my supervisor, [<font color='blue'>Prof. Renzhong Feng</font>](https://math.buaa.edu.cn/szdw1/azcck/js/frz.htm "个人主页"), and the school.
 I choose to return to my hometown (Guizhou province) and start my independent academic career in **GZNU**.
 
 My current research interest is <font color='red'>the fitting and approximation on high-dimensional data</font> and <font color='red'>scattered data approximation</font>. 
