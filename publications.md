@@ -35,6 +35,6 @@ title: Publications
 ## Book
 
 - Coming soon!
-  <br>
+
 ---
 
