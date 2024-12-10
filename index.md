@@ -12,7 +12,7 @@ I went to the School of Mathematical Sciences at Beihang University (**BUAA**) i
 I am very grateful for my supervisor, [<font color='blue'>Prof. Renzhong Feng</font>](https://math.buaa.edu.cn/szdw1/azcck/js/frz.htm "个人主页"), and the school.
 I choose to return to my hometown (Guizhou province) and start my independent academic career in **GZNU**.
 
-My current research interest is <font color='red'>the fitting and approximation on high-dimensional data</font> and <font color='red'>scattered data approximation</font>. 
+My current research interest is **<font color='red'>the fitting and approximation on high-dimensional data</font>** and **<font color='red'>scattered data approximation</font>**. 
 I welcome scholars at home and abroad to exchange and discuss with me on issues in those fields.
 Interested students are also welcome to contact me and make progress together.
 
@@ -44,5 +44,4 @@ methods for general data, and extending them to practical application problems.
 - **Mar 2024**: Employed as a Lecture by Guizhou Normal University!
 - **Jun 2023**: Got a PhD in Applied Mathematics at Beihang University!
 
-> Lastest Update: May 1, 2024 by Sanpeng Zheng.
-
+> Lastest Update: December 10, 2024 by Sanpeng Zheng.
