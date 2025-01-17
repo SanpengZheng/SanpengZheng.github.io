@@ -12,7 +12,7 @@ title: Publications
 
 3. Aitong Huang; Renzhong Feng*; **Sanpeng Zheng**; [<font color='blue'>The Recovery Guarantee for Orthogonal Matching Pursuit Method to Reconstruct Sparse Polynomials</font>](https://doi.org/10.4208/nmtma.OA-2022-0015), **Numerical Mathematics-theory Methods and Applications**, **2022**, 15(3): 793-818.
 
-4. **Sanpeng Zheng**; Renzhong Feng*; Aitong Huang ; [<font color='blue'>A modified moving least-squares suitable for scattered data fitting with outliers</font>](https://doi.org/10.1016/j.cam.2019.112655), **Journal of Computational and Applied Mathematics**, **2020**,370: 112655. [**Manuscript**](https://SanpengZheng.github.io/file/Manuscripts/1.Manuscript MMLS.pdf)  [**Source Code**](https://SanpengZheng.github.io/file/Source Code/1.Source Code MMLS.zip)
+4. **Sanpeng Zheng**; Renzhong Feng*; Aitong Huang ; [<font color='blue'>A modified moving least-squares suitable for scattered data fitting with outliers</font>](https://doi.org/10.1016/j.cam.2019.112655), **Journal of Computational and Applied Mathematics**, **2020**,370: 112655. [**Manuscript**](https://SanpengZheng.github.io/file/Manuscripts/Manuscript of MMLS.pdf)/[**Source Code**](https://SanpengZheng.github.io/file/Source Code/Source Code of MMLS.zip)
 
 5. **Sanpeng Zheng**; Renzhong Feng*; Aitong Huang ; [<font color='blue'>The Optimal Shape Parameter for the Least Squares Approximation Based on the Radial Basis Function</font>](https://doi.org/10.3390/math8111923), **Mathematics**, **2020**, 8(11): 1923.
 
