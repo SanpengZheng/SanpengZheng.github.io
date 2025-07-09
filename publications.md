@@ -6,7 +6,7 @@ title: Publications
 
 ## Journal Paper
 
-1. **Sanpeng Zheng\*; [<font color ='blue'>An acceleration method for moving least squares based on a generalized octree for massive data</font>](https://doi.org/10.1016/j.cam.2025.116893), **Journal of Computational and Applied Mathematics**, **2025**,10.1016/j.cam.2025.116893. [**Manuscript**](https://SanpengZheng.github.io/file/Manuscripts/Manuscript of GOctree.pdf)/[**Source Code**](https://github.com/SanpengZheng/G-Octree-By-ZSP)
+1. **Sanpeng Zheng; [<font color ='blue'>An acceleration method for moving least squares based on a generalized octree for massive data</font>](https://doi.org/10.1016/j.cam.2025.116893), **Journal of Computational and Applied Mathematics**, **2025**,10.1016/j.cam.2025.116893. [**Manuscript**](https://SanpengZheng.github.io/file/Manuscripts/Manuscript of GOctree.pdf)/[**Source Code**](https://github.com/SanpengZheng/G-Octree-By-ZSP)
 
 2. **Sanpeng Zheng**; Renzhong Feng*; Aitong Huang ; [<font color='blue'>An outlier detection and recovery method based on moving least squares quasi-interpolation scheme and $l_0$-minimization problem</font>](https://doi.org/10.1016/j.apm.2023.05.032), **Applied Mathematical Modelling**, **2023**, 122: 127-150. [**Manuscript**](https://SanpengZheng.github.io/file/Manuscripts/Manuscript of l0-ODR.pdf)/[**Source Code**](https://SanpengZheng.github.io/file/Source Code/Source Code of l0ODR.zip)
 
