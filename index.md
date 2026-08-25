@@ -44,4 +44,4 @@ methods for general data, and extending them to practical application problems.
 - **Mar 2024**: Employed as a Lecture by Guizhou Normal University!
 - **Jun 2023**: Got a PhD in Applied Mathematics at Beihang University!
 
-> Lastest Update: July 9, 2025 by Sanpeng Zheng.
+> Lastest Update: August 25, 2026 by Sanpeng Zheng.
