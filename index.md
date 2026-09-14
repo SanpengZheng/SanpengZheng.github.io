@@ -16,6 +16,8 @@ My current research interest is **<font color='red'>the fitting and approximatio
 I welcome scholars at home and abroad to exchange and discuss with me on issues in those fields.
 Interested students are also welcome to contact me and make progress together.
 
+My Chinese homepage is: https://mc.gznu.edu.cn/info/2157/91155.htm .
+
 ---
 
 ## Academic Background
