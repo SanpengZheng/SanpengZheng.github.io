@@ -16,7 +16,7 @@ My current research interest is **<font color='red'>the fitting and approximatio
 I welcome scholars at home and abroad to exchange and discuss with me on issues in those fields.
 Interested students are also welcome to contact me and make progress together.
 
-My Chinese homepage is: https://mc.gznu.edu.cn/info/2157/91155.htm .
+My Chinese homepage is: [<font color='blue'>郑三棚的个人主页</font>](https://mc.gznu.edu.cn/info/2157/91155.htm "中文个人主页").
 
 ---
 
