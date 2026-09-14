@@ -6,7 +6,7 @@ title: Publications
 
 ## Journal Paper
 
-1. QingQing Wang; Renzhong Feng*; **Sanpeng Zheng**; [<font color = 'blue'>A growing neural gas-based surface reconstruction algorithm for point clouds with non-manifold surface structures</font>](https://doi.org/10.1016/j.cagd.2026.102607), **Computer Aided Geometric Design**, **2026**, 130: 102607.
+1. QingQing Wang; **Sanpeng Zheng**; Renzhong Feng*; [<font color = 'blue'>A growing neural gas-based surface reconstruction algorithm for point clouds with non-manifold surface structures</font>](https://doi.org/10.1016/j.cagd.2026.102607), **Computer Aided Geometric Design**, **2026**, 130: 102607.
 
 2. **Sanpeng Zheng***; [<font color='blue'>An acceleration method for moving least squares based on a generalized octree for massive data</font>](https://doi.org/10.1016/j.cam.2025.116893), **Journal of Computational and Applied Mathematics**, **2025**,10.1016/j.cam.2025.116893. [**Manuscript**](https://SanpengZheng.github.io/file/Manuscripts/Manuscript of GOctree.pdf)/[**Source Code**](https://github.com/SanpengZheng/G-Octree-By-ZSP)
 
