@@ -20,7 +20,7 @@ Scientific research is highly dependent on high-quality, high-level teams. In or
 
 1. Guizhou Provincial Department of Science and Technology, Youth Guidance Program of the Basic Research Plan, Qiankehe Jichu QN [2026] No. 005-15, "Research on Outlier Detection Algorithms for High-Dimensional Data under the Manifold Hypothesis", June 2026 to June 2029, 50,000 Yuan, Ongoing, Project Leader.
 
-2. Guizhou Provincial Department of Education, Natural Science Research Project of Higher Education Institutions, Document No. Guijiaoji [2024]57, "Study on Moving Least Squares Method for Massive Scattered Data", July 2024 to June 2026, 60,000 Yuan, Completed, End of funding period, Project Leader.
+2. Guizhou Provincial Department of Education, Natural Science Research Project of Higher Education Institutions, Document No. Guijiaoji [2024]57, "Study on Moving Least Squares Method for Massive Scattered Data", July 2024 to June 2026, 60,000 Yuan, Completed, Project Leader.
 
 3. Study on the least square methods for fitting high dimensional scattered data, the Academic Excellence Foundation of BUAA for PhD Students, 2022-2023, 40,000 Yuan, Completed, Project Leader.
 
